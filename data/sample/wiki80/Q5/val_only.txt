@@ -1,0 +1,500 @@
+{"token": ["Bud", "Frye", "Field", "Madison"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Majors", "Airport", "Greenville"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Jackpot", "Hayden", "Field"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Billy", "Mitchell", "Airport", "Hatteras"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Northern", "Cyprus", "Ercan", "International", "Airport"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "place served by transport hub"}
+{"token": ["Clarksburg", "North", "Central", "West", "Virginia", "Airport"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Vahitahi", "territorial", "airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["General", "DeWitt", "Spain", "Airport", "Memphis"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "place served by transport hub"}
+{"token": ["Nanaimo", "Ray", "Collishaw", "Air", "Terminal"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Quetzalcoatl", "International", "Airport", "Nuevo", "Laredo"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "place served by transport hub"}
+{"token": ["Matthew", "Spain", "Airport", "San", "Ignacio"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "place served by transport hub"}
+{"token": ["Curtiss", "Field", "Mineola", ",", "New", "York"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 6]}, "relation": "place served by transport hub"}
+{"token": ["Hyderabad", "Hakimpet", "Air", "Force", "Station"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Islamabad", "Benazir", "Bhutto", "International", "Airport"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["El", "Tepual", "International", "Airport", "Puerto", "Montt"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "place served by transport hub"}
+{"token": ["Waynesville", "Forney", "Field"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Ciudad", "Real", "Don", "Quijote", "Airport"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "place served by transport hub"}
+{"token": ["Mariano", "Melgar", "Airport", "La", "Joya"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "place served by transport hub"}
+{"token": ["Hangzhou", "Xiaoshan", "Airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Griffiss", "International", "Airport", "Oneida", "County"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "place served by transport hub"}
+{"token": ["Hang", "Nadim", "Airport", "Batam"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Ogden", "Point", "Victoria"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Brest", "Bretagne", "Airport", "Brest", ",", "France"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "place served by transport hub"}
+{"token": ["Lakeland", "Linder", "Regional", "Airport", "Lakeland", ",", "Florida"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 7]}, "relation": "place served by transport hub"}
+{"token": ["Ronald", "Reagan", "Washington", "National", "Airport", "Baltimore"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "place served by transport hub"}
+{"token": ["Wichita", "Beech", "Factory", "Airport"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Spokane", "International", "Airport", "Spokane", ",", "Washington"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "place served by transport hub"}
+{"token": ["Krim", "Belkacem", "Airport", "Hassi", "Messaoud"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "place served by transport hub"}
+{"token": ["Quer\u00e9taro", "Qro"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Friedrichshafen", "local", "airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Pittsburgh", ",", "PA", "Pittsburgh", "International", "Airport"], "h": {"pos": [3, 6]}, "t": {"pos": [0, 3]}, "relation": "place served by transport hub"}
+{"token": ["Shtraklevo", "Air", "Base", "Ruse"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Gabu", "Airfield", "Laoag"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Oshkosh", ",", "Wisconsin", "Pioneer", "Airport"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "place served by transport hub"}
+{"token": ["Everglades", "Airpark", "Everglades", "City"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "place served by transport hub"}
+{"token": ["airport", "Donetsk"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "place served by transport hub"}
+{"token": ["Le", "Sueur", "Municipal", "Airport", "Le", "Sueur", ",", "Minnesota"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 8]}, "relation": "place served by transport hub"}
+{"token": ["Shuttleworth", "Collection", "Old", "Warden", "Aerodrome"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "place served by transport hub"}
+{"token": ["Laurel", "Airport", "Laurel", ",", "Delaware"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "place served by transport hub"}
+{"token": ["Coronel", "Felipe", "Varela", "International", "Airport", "San", "Fernando", "del", "Valle", "de", "Catamarca"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 11]}, "relation": "place served by transport hub"}
+{"token": ["Reus", "airport"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Moton", "Field", "Tuskegee", ",", "Alabama"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "place served by transport hub"}
+{"token": ["Aim\u00e9", "C\u00e9saire", "International", "Airport", "Fort", "-", "de", "-", "France"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 9]}, "relation": "place served by transport hub"}
+{"token": ["KEKO", "Elko"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "place served by transport hub"}
+{"token": ["Queen", "Tamar", "Airport", "Mestia"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["airport", "Brisbane"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "place served by transport hub"}
+{"token": ["Sogamoso", "Alberto", "Lleras", "Camargo", "Airport"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Koundara", "Sambailo", "Airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Atico", "Airport", "Atico", "District"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "place served by transport hub"}
+{"token": ["Furatena", "Airport", "Qu\u00edpama"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Mingaladon", "Airport", "Rangoon"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Latrobe", "Arnold", "Palmer", "Regional", "Airport"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Guntersville", ",", "Alabama", "Joe", "Starnes", "Field"], "h": {"pos": [3, 6]}, "t": {"pos": [0, 3]}, "relation": "place served by transport hub"}
+{"token": ["Bastia", "Poretta", "Airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["El", "Salvador", "Comalapa", "International", "Airport"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "place served by transport hub"}
+{"token": ["Grove", "Field", "Camas"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Boire", "Field", "Nashua"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "place served by transport hub"}
+{"token": ["Malikus", "Saleh", "Airport", "Lhokseumawe"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Trinidad", "TDD"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Montego", "Bay", "Sangster", "International", "Airport"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "place served by transport hub"}
+{"token": ["Rose", "Bay", "Water", "Airport", "Sydney"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "place served by transport hub"}
+{"token": ["Andrews", "County", "Airport", "Andrews", ",", "Texas"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "place served by transport hub"}
+{"token": ["Peterborough", "Airport", "Peterborough", ",", "Ontario"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "place served by transport hub"}
+{"token": ["G\u00f6teborg", "Landvetter", "Airport", "Gothenburg"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["D\u00fcsseldorf", "International", "Airport"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["West", "Coast", "Tasmania", "Strahan", "Airport"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "place served by transport hub"}
+{"token": ["Samarinda", "Temindung"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Aktion", "National", "Airport", "Preveza"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "place served by transport hub"}
+{"token": ["Lucknow", "LKO"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "place served by transport hub"}
+{"token": ["Jos\u00e9", "Aponte", "de", "la", "Torre", "Airport", "Ceiba"], "h": {"pos": [0, 6]}, "t": {"pos": [6, 7]}, "relation": "place served by transport hub"}
+{"token": ["Mount", "Troubridge", "Anare", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "Paris", "Rouen", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Bald", "Peak", "Chehalem", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Diablo", "Mountains", "Pacheco", "Pass"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "mountain range"}
+{"token": ["Zigana", "Pass", "Pontic", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Khao", "Kho", "Phetchabun", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["La", "Grange", "Nunataks", "Shackleton", "Range"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Geissflue", "Jura", "Mountains"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Luggala", "Wicklow", "Mountains"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Gambacorta", "Peak", "Neptune", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Fram", "Mesa", "Queen", "Maud", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Niedere", "Tauern", "Central", "Eastern", "Alps"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Alander", "Mountain", "Taconic", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Delta", "Glacier", "Worcester", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Maschberg", "Wiehen", "Hills"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Dorrer", "Glacier", "Queen", "Elizabeth", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Shakhdara", "Range", "Pamir", "Mountain", "System"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Montecchi", "Glacier", "Victory", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Wetterkreuzberg", "Haardt"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "mountain range"}
+{"token": ["Reiter", "Alpe", "Wagendrischelhorn"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "mountain range"}
+{"token": ["Queen", "Maud", "Mountains", "Gray", "Peak"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "mountain range"}
+{"token": ["Domen", "Butte", "Borg", "Massif"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Support", "Force", "Glacier", "Pensacola", "Mountains"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Pelly", "Mountains", "Glenlyon", "Range"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "mountain range"}
+{"token": ["Mount", "Blowaway", "Wilson", "Hills"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Sangre", "de", "Cristo", "Range", "Columbia", "Point"], "h": {"pos": [4, 6]}, "t": {"pos": [0, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "of", "Olives", "Judaean", "Mountains"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Queen", "Elizabeth", "Range", "January", "Col"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "mountain range"}
+{"token": ["Banasura", "Hill", "Western", "Ghats"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Southern", "Carpathians", "Carpathian", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Khancoban", "Dam", "Snowy", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "Augusta", "Queen", "Alexandra", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Mont", "Aigoual", "C\u00e9vennes"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "mountain range"}
+{"token": ["\u00c4ussere", "Schwarze", "Schneid", "\u00d6tztal", "Alps"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Karwendel", "Birkkarspitze"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "mountain range"}
+{"token": ["McKenzie", "Nunatak", "Bowers", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["R\u00e4tikon", "Central", "Eastern", "Alps"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "mountain range"}
+{"token": ["Shenandoah", "Mountain", "Allegheny", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Stephenson", "Bastion", "Shackleton", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "Peale", "La", "Sal", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Mafadi", "Drakensberg"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "mountain range"}
+{"token": ["Mount", "McKerrow", "Surveyors", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Serra", "de", "la", "Mussara", "Prades", "Mountains"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "mountain range"}
+{"token": ["Mount", "Newall", "Asgard", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Allardyce", "Range", "Smillie", "Peak"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "mountain range"}
+{"token": ["Mullacor", "Wicklow", "Mountains"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Gspaltenhorn", "Bernese", "Alps"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Graz", "Highlands", "Prealps", "East", "of", "the", "Mur"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 7]}, "relation": "mountain range"}
+{"token": ["Sawtooth", "Mountain", "Cascade", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "Fridtjof", "Nansen", "Queen", "Maud", "Mountains"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "mountain range"}
+{"token": ["Mus", "-", "Khaya", "Mountain", "Suntar", "-", "Khayata", "Range"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 8]}, "relation": "mountain range"}
+{"token": ["M\u00e1tra", "Galyatet\u0151"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "mountain range"}
+{"token": ["Sierra", "de", "H\u00edjar", "Cantabrian", "Mountains"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Cascades", "Cascade", "Pass"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "mountain range"}
+{"token": ["Shipman", "Knotts", "Lake", "District"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Sulaiman", "mountain", "range", "Takht", "-", "e", "-", "Sulaiman"], "h": {"pos": [3, 8]}, "t": {"pos": [0, 3]}, "relation": "mountain range"}
+{"token": ["Alpine", "Obersalzberg"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "mountain range"}
+{"token": ["San", "Mart\u00edn", "Glacier", "Argentina", "Range"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "mountain range"}
+{"token": ["Wildspitze", "\u00d6tztal", "Alps"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "mountain range"}
+{"token": ["Argentine", "Pass", "Front", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Kaweah", "peaks", "ridge", "Great", "Western", "Divide"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "mountain range"}
+{"token": ["Boyd", "Ridge", "Crary", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Sveta", "Gera", "\u017dumberak", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Sicintine", "Range", "Skeena", "Mountains"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Fisher", "Bastion", "Royal", "Society", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "mountain range"}
+{"token": ["Golica", "Karawanks"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "mountain range"}
+{"token": ["Eurus", "Ridge", "Olympus", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Mount", "Brooker", "Allardyce", "Range"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["chain", "Mauna", "Loa"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "mountain range"}
+{"token": ["Ediacara", "Hills", "Flinders", "Ranges"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "mountain range"}
+{"token": ["Olav", "V", "church"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Jewish", "David"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Theodor", "Herzl", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Jainism", "Ravisena"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Catholic", "South", "Vietnam"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Deity", "Yoga", "Vajrayana"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Bishop", "of", "Southampton", "Church", "of", "England"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "religion"}
+{"token": ["Shia", "al", "-", "Mufid"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Ireland", "Catholics"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "religion"}
+{"token": ["Johan", "Bonny", "Catholic", "Church"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "religion"}
+{"token": ["Guy", "Oseary", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Orthodox", "Pskov"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Church", "of", "the", "Nazarene", "Nazarene", "Theological", "Seminary"], "h": {"pos": [4, 7]}, "t": {"pos": [0, 4]}, "relation": "religion"}
+{"token": ["Protestant", "William", "Tyndale"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Shaivism", "Shiva"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["St", "Boniface", "Catholic"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Lokak\u1e63ema", "Buddhist"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "religion"}
+{"token": ["Richard", "the", "Lionheart", "Christian"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "religion"}
+{"token": ["Edythe", "Pauline", "Jones", "Episcopal"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "religion"}
+{"token": ["Hakuin", "Ekaku", "Rinzai", "school"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "religion"}
+{"token": ["Catholic", "Frederick", "Eugen"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Pope", "Gregory", "IX", "Christianity"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "religion"}
+{"token": ["Asistencias", "Catholic"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "religion"}
+{"token": ["Jewish", "Yisrael"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Buddhism", "Wu", "Zetian"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Catholic", "school"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Anglican", "cathedral"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Welch", "College", "Free", "Will", "Baptist"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "religion"}
+{"token": ["Francesco", "Bonifacio", "Catholic", "Church"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "religion"}
+{"token": ["Vincent", "Madeley", "Harris", "Catholic", "Church"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "religion"}
+{"token": ["Jewish", "Bernie", "Sanders"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Nadine", "Lhopitalier", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Shabbatai", "HaKohen", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Temple", "Mount", "Muslim", "religion"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "religion"}
+{"token": ["Buddhism", "Goguryeo"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Christian", "Alodia"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Catholic", "Metropolitan", "Archdiocese", "of", "Goa"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Catholic", "Cecilius", "Calvert", ",", "2nd", "Baron", "of", "Baltimore"], "h": {"pos": [1, 8]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Cheng", "Yen", "Buddhist"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Thomas", "Howard", ",", "4th", "Duke", "of", "Norfolk", "Catholic"], "h": {"pos": [0, 7]}, "t": {"pos": [7, 8]}, "relation": "religion"}
+{"token": ["Paul", "Majunke", "Catholic"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Giovanni", "Battista", "Montini", "Catholic"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "religion"}
+{"token": ["Moe", "Howard", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Catholic", "that", "church"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["LDS", "Church", "Ebenezer", "Beesley"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "religion"}
+{"token": ["Evenk", "shamanism"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "religion"}
+{"token": ["Catholic", "Dorothy", "Day"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Christianity", "Olga", "of", "Kiev"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Lutheran", "Evangelical", "Church", "of", "the", "Augsburg", "Confession", "in", "Poland"], "h": {"pos": [1, 9]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Episcopal", "Seabury", "-", "Western", "Theological", "Seminary"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["LDS", "Rudger", "Clawson"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Francis", "I", "Catholic"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Christian", "martyrologies"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Methodist", "Mandela"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Siegfried", "Sassoon", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Jacob", "Bassevi", "Jewish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Catholic", "Church", "Pope", "Pius", "X"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "religion"}
+{"token": ["LDS", "Church", "Joseph", "Fielding", "Smith"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "religion"}
+{"token": ["Maxine", "Sanders", "Alexandrian", "Wicca"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "religion"}
+{"token": ["Mormonism", "Doctrine", "and", "Covenants"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["African", "Methodist", "Episcopal", "Church", "Paul", "Quinn", "College"], "h": {"pos": [4, 7]}, "t": {"pos": [0, 4]}, "relation": "religion"}
+{"token": ["Charles", "Kingsley", "Church", "of", "England"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "religion"}
+{"token": ["Kurds", "Yazidism"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "religion"}
+{"token": ["LDS", "Church", "Russell", "Pearce"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "religion"}
+{"token": ["Jewish", "Herod"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Catholic", "Al", "Travers"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Quaker", "Earlham", "College"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Christianity", "King", "Roger"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "religion"}
+{"token": ["Church", "of", "England", "Colony", "of", "Virginia"], "h": {"pos": [3, 6]}, "t": {"pos": [0, 3]}, "relation": "religion"}
+{"token": ["Chandragupta", "Maurya", "Jainism"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "religion"}
+{"token": ["Brazil", "national", "team", "1930", "FIFA", "World", "Cup"], "h": {"pos": [3, 7]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["1970", "FIFA", "World", "Cup", "Brazil"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "participating team"}
+{"token": ["1986", "FIFA", "World", "Cup", "Soviet", "Union"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["Argentina", "national", "football", "team", "1958", "FIFA", "World", "Cup"], "h": {"pos": [4, 8]}, "t": {"pos": [0, 4]}, "relation": "participating team"}
+{"token": ["Mexico", "2014", "World", "Cup"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Korea", "2003"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Brazil", "2002"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["2015", "River", "Plate"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "participating team"}
+{"token": ["Florida", "State", "Seminoles", "national", "championship"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["2017", "China", "Cup", "Iceland"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["Super", "Bowl", "XXVII", "Buffalo", "Bills"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "participating team"}
+{"token": ["1966", "World", "Cup", "Swiss", "team"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "participating team"}
+{"token": ["South", "Korea", "national", "football", "team", "2006", "FIFA", "World", "Cup"], "h": {"pos": [5, 9]}, "t": {"pos": [0, 5]}, "relation": "participating team"}
+{"token": ["UEFA", "Euro", "2016", "Italy"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["2005", "Sudirman", "Cup", "Indonesian"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["1974", "FIFA", "World", "Cup", "Netherlands"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "participating team"}
+{"token": ["Poland", "national", "team", "Euro", "2016"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["1934", "FIFA", "World", "Cup", "Romania"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "participating team"}
+{"token": ["Denver", "Broncos", "Super", "Bowl", "XXI"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Berlin", "Thunder", "World", "Bowl", "XIII"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["England", "2002", "FIFA", "World", "Cup"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Kansas", "City", "Chiefs", "the", "first", "ever", "Super", "Bowl"], "h": {"pos": [3, 8]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["World", "Bowl", "'", "99", "Barcelona", "Dragons"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["Paraguay", "squad", "1950", "World", "Cup"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Adelaide", "2017", "Grand", "Final"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Switzerland", "1938"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["South", "Korea", "1986", "FIFA", "World", "Cup"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Trinidad", "and", "Tobago", "national", "team", "2006", "FIFA", "World", "Cup"], "h": {"pos": [5, 9]}, "t": {"pos": [0, 5]}, "relation": "participating team"}
+{"token": ["St", "Kilda", "Football", "Club", "2017"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "participating team"}
+{"token": ["Serie", "A", "Atalanta"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "participating team"}
+{"token": ["Urawa", "Red", "Diamonds", "season"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["Apollon", "Limassol", "Cypriot", "First", "Division"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Uruguay", "international", "2013", "Confederations", "Cup"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["UEFA", "Euro", "1972", "Belgium"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["Socceroos", "World", "Cup"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["2016", "Cure", "Bowl", "UCF"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["Euro", "2004", "Portugal"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "participating team"}
+{"token": ["2014", "FIFA", "World", "Cup", "Nigeria"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "participating team"}
+{"token": ["league", "Krasnodar"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "participating team"}
+{"token": ["season", "VfB", "Stuttgart"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "participating team"}
+{"token": ["Swedish", "national", "side", "1958", "FIFA", "World", "Cup"], "h": {"pos": [3, 7]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["2002", "FIFA", "World", "Cup", "United", "States"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["Portugal", "national", "team", "Euro", "2016"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "participating team"}
+{"token": ["the", "season", "opener", "Vancouver", "Whitecaps"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "participating team"}
+{"token": ["league", "Bayer", "Leverkusen"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "participating team"}
+{"token": ["Paraguay", "2015", "Copa", "Am\u00e9rica"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["UEFA", "Euro", "1968", "Yugoslavia"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["Czech", "Republic", "1997", "FIFA", "Confederations", "Cup"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Europa", "League", "Braga"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "participating team"}
+{"token": ["South", "Korea", "national", "football", "team", "1990", "FIFA", "World", "Cup"], "h": {"pos": [5, 9]}, "t": {"pos": [0, 5]}, "relation": "participating team"}
+{"token": ["1954", "World", "Cup", "Uruguay"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "participating team"}
+{"token": ["Khimki", "2008", "Russian", "Premier", "League"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["finals", "series", "Geelong"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "participating team"}
+{"token": ["Belgium", "2014", "FIFA", "World", "Cup"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Cameroon", "2017", "FIFA", "Confederations", "Cup"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["USMNT", "2009", "FIFA", "Confederations", "Cup"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Milan", "Serie", "A"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Saudi", "Arabia", "national", "team", "1994", "FIFA", "World", "Cup"], "h": {"pos": [4, 8]}, "t": {"pos": [0, 4]}, "relation": "participating team"}
+{"token": ["Panama", "Copa", "Am\u00e9rica", "Centenario"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Estoril", "2016", "-", "17"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["2005", "Russian", "Premier", "League", "Lokomotiv", "Moscow"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["Buffalo", "Bills", "Super", "Bowl", "XXVI"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Stuttgart", "winning", "the", "2009", "league", "championship"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Italy", "1980", "European", "Championship"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["1970", "FIFA", "World", "Cup", "West", "Germany"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["2013", "-", "14", "season", "Krylia", "Sovetov"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "participating team"}
+{"token": ["following", "season", "Eintracht", "Braunschweig"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "participating team"}
+{"token": ["East", "German", "national", "team", "1974", "FIFA", "World", "Cup"], "h": {"pos": [4, 8]}, "t": {"pos": [0, 4]}, "relation": "participating team"}
+{"token": ["Bolivia", "1994", "FIFA", "World", "Cup"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "participating team"}
+{"token": ["Scottish", "Claymores", "World", "Bowl", "2000"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "participating team"}
+{"token": ["Frauenstein", "Wiesbaden"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Briey", "Meurthe", "-", "et", "-", "Moselle"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Province", "of", "Cremona", "Lombardy"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Torres", "Vedras", "Lisbon", "District"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Province", "of", "Cuneo", "Piedmont"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Metropolitan", "France", "Corsica"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Italy", "Marche"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Vorpommern", "-", "Greifswald", "Mecklenburg", "-", "Vorpommern"], "h": {"pos": [3, 6]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["North", "Sri", "Lanka"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Ouest", "Haiti"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Xindian", "District", "New", "Taipei", "City"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["G\u00e1talja", "Timi\u015f", "County"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Lower", "Saxony", "Germany"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Gmina", "Polkowice", "Polkowice", "County"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Meranti", "Islands", "Regency", "Riau"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Kunar", "Province", "Afghanistan"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Lebanon", "Al", "Janub"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Beaufort", "County", "North", "Carolina"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Miguel", "Hidalgo", "borough", "Mexico", "City"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Manggarai", "regency", "East", "Nusa", "Tenggara"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Gibeon", "Constituency", "Hardap", "Region"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Chulabhorn", "District", "Nakhon", "Si", "Thammarat"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Condrieu", "Rh\u00f4ne"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Okinawa", "Itoman"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Roberts", "County", "South", "Dakota"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Morogoro", "Region", "Tanzania"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Bloemendaal", "North", "Holland"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Crawford", "County", "Georgia"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Vietnam", "Danang"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Halland", "County", "Sweden"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Warsaw", "W\u0142ochy"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Sogn", "og", "Fjordane", "Norway"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Port", "Stephens", "New", "South", "Wales"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Belgian", "Flemish"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Ipswich", "Queensland"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Vratsa", "Province", "Bulgaria"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Cook", "County", "Illinois"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["White", "Pine", "County", "Nevada"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Chernoochene", "Municipality", "Kardzhali", "Province"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Flintshire", "Wales"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["province", "of", "Messina", "Sicily"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Pil\u00f5es", "Rio", "Grande", "do", "Norte"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Marion", "County", "Oregon"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Morgan", "County", "Illinois"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Scott", "County", "Minnesota"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["San", "Marino", "Borgo", "Maggiore"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "contains administrative territorial entity"}
+{"token": ["Guatemalan", "Huehuetenango", "Department"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Cusco", "Region", "Canchis", "Province"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "contains administrative territorial entity"}
+{"token": ["Thai", "Phichit", "Province"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Taleqan", "County", "Alborz", "Province"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Mara", "Region", "Tanzania"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Estonia", "European", "Union"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Sussex", "County", "Delaware"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Kane", "County", "Utah"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Mr\u0105gowo", "County", "Warmian", "-", "Masurian", "Voivodeship"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Lithuania", "Utena", "County"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Gazost", "Hautes", "-", "Pyr\u00e9n\u00e9es"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Waveney", "District", "Suffolk"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Clark", "County", "Ohio"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Parczew", "County", "Lublin", "Voivodeship"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Sint", "Eustatius", "Netherlands", "Antilles"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Kuala", "Lumpur", "Malaysia"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Zululand", "KwaZulu", "-", "Natal"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Dingras", "Ilocos", "Norte"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Songkhla", "Province", "Thailand"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Preston", "County", "West", "Virginia"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Arge\u0219", "County", "Romania"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["San", "Pablo", "City", "Laguna"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "contains administrative territorial entity"}
+{"token": ["Stuttgart", "Plieningen"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "contains administrative territorial entity"}
+{"token": ["Berwick", "City", "of", "Casey"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "contains administrative territorial entity"}
+{"token": ["Christine", "Lieberknecht", "Thuringia"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Guangdong", "Zhu", "Xiaodan"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Pavel", "B\u00e9m", "Prague"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Wim", "Deetman", "The", "Hague"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Emiliano", "Garcia", "-", "Page", "Castilla", "-", "La", "Mancha"], "h": {"pos": [4, 8]}, "t": {"pos": [0, 4]}, "relation": "head of government"}
+{"token": ["Kim", "Driscoll", "Salem"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["cabinet", "K\u00e5re", "Willoch"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Pavlo", "Lazarenko", "Ukraine"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Norwegian", "K\u00e5re", "Willoch"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Luc\u00eda", "Corpacci", "Catamarca"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Maggie", "Hassan", "New", "Hampshire"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Emilia", "-", "Romagna", "Stefano", "Bonaccini"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "head of government"}
+{"token": ["Sweden", "Fredrik", "Reinfeldt"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Narendra", "Modi", "Digital", "India"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Richard", "Milhous", "Nixon", "United", "States"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "head of government"}
+{"token": ["Bao", "Nguyen", "Garden", "Grove", ",", "California"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Georgia", "Nathan", "Deal"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Malaysia", "Najib", "Razak"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Madrid", "Manuela", "Carmena"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Gauteng", "Nomvula", "Mokonyane"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Western", "Cape", "Helen", "Zille"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Orlando", "Buddy", "Dyer"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Noxolo", "Kiviet", "Eastern", "Cape"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Cluj", "-", "Napoca", "Emil", "Boc"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "head of government"}
+{"token": ["Prague", "Bohuslav", "Svoboda"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Enrico", "Letta", "government"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Maxime", "Bono", "La", "Rochelle"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["New", "York", "City", "Michael", "Bloomberg"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "head of government"}
+{"token": ["Swaziland", "Barnabas", "Sibusiso", "Dlamini"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "head of government"}
+{"token": ["Katr\u00edn", "Jakobsd\u00f3ttir", "the", "new", "government"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["entered", "Government", "Enda", "Kenny"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Lower", "Saxony", "Stephan", "Weil"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Cecilia", "Schelin", "Seideg\u00e5rd", "Gotland", "County"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "head of government"}
+{"token": ["Andr\u00e9", "Labarr\u00e8re", "Pau"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["San", "Luis", "Province", "Alberto", "Rodr\u00edguez", "Sa\u00e1"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "head of government"}
+{"token": ["Bremen", "Carsten", "Sieling"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Cape", "Town", "Patricia", "de", "Lille"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "head of government"}
+{"token": ["Juan", "Manuel", "S\u00e1nchez", "Gordillo", "Marinaleda"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "head of government"}
+{"token": ["Michael", "Pedersen", "Friis", "Denmark"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "head of government"}
+{"token": ["Hanna", "Zdanowska", "\u0141\u00f3d\u017a"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Fritz", "Kuhn", "Stuttgart"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Louisiana", "John", "Bel", "Edwards"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "head of government"}
+{"token": ["Pete", "Saenz", "Laredo", ",", "Texas"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Bush", "administration", "United", "States"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Emirate", "of", "Sharjah", "Sultan", "bin", "Muhammad", "Al", "-", "Qasimi"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 9]}, "relation": "head of government"}
+{"token": ["Megan", "Barry", "Nashville"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Cleveland", "Frank", "Jackson"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Apostolos", "Tzitzikostas", "Central", "Macedonia"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Cluj", "Sorin", "Apostu"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["San", "Francisco", "Willie", "Brown"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["the", "government", "Boyko", "Borisov"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Mainz", "Michael", "Ebling"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Germany", "Angela", "Merkel"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Hassan", "Rouhani", "First"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Alfred", "Deakin", "second", "ministry"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["first", "cabinet", "Kostas", "Karamanlis"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Australia", "Julia", "Gillard"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["second", "Viktor", "Orb\u00e1n"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["Anthony", "Williams", "District", "of", "Columbia"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Thuringia", "Bodo", "Ramelow"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["United", "States", "Millard", "Fillmore"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "head of government"}
+{"token": ["Einar", "Gerhardsen", "Norway"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Rachida", "Dati", "7th", "arrondissement", "of", "Paris"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["first", "cabinet", "Sukarno"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "head of government"}
+{"token": ["Hamengkubuwono", "Yogyakarta"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "head of government"}
+{"token": ["UNC", "Chapel", "Hill", "Carol", "Folt"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "head of government"}
+{"token": ["Rick", "Snyder", "Michigan"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["\u00c9ric", "Besson", "Donz\u00e8re"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["John", "Curtin", "Commonwealth", "of", "Australia"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "head of government"}
+{"token": ["Nagaland", "Shurhozelie", "Liezietsu"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "head of government"}
+{"token": ["United", "States", "Vannevar", "Bush"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "country of citizenship"}
+{"token": ["Rhonda", "Cator", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Rick", "Bevan", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Mark", "Izu", "American"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Heinz", "Joachim", "Manchen", "German"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "country of citizenship"}
+{"token": ["Byzantine", "Empire", "Procopius"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "country of citizenship"}
+{"token": ["Gabriel", "Bethlen", "Transylvania"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Shane", "Watson", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Cameron", "Dallas", "United", "States"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "country of citizenship"}
+{"token": ["Antje", "Harvey", "German"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Elena", "Linari", "Italian"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["USSR", "Vladimir", "Kunin"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Marty", "Goldman", "American"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Usain", "Bolt", "Jamaica"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["American", "Khujo"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Mary", "Johnston", "United", "States"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "country of citizenship"}
+{"token": ["Italians", "Gianmaria", "Bruni"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Byron", "LaBeach", "Jamaica"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Jimly", "Asshiddiqie", "Indonesia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Italy", "Oscar", "Luigi", "Scalfaro"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["German", "Johann", "Ernst", "Eberlin"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Sultan", "Shahriar", "Rashid", "Khan", "Bangladesh"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "country of citizenship"}
+{"token": ["American", "Cybill", "Shepherd"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Jill", "Kennare", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Giovanni", "Trapattoni", "Italy"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Ivan", "Satrapa", "Czechoslovak"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Philippines", "Lorenzo", "Ruiz"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Efraim", "Sevela", "USSR"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Thai", "Yingluck", "Shinawatra"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Germany", "Hans", "-", "Georg", "Dallmer"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Afghanistan", "Abdul", "Ali", "Mazari"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Carwyn", "Jones", "Wales"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Italy", "Silvio", "Berlusconi"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Omar", "Bongo", "Gabon"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Fran\u00e7ois", "Boziz\u00e9", "Central", "African", "Republic"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "country of citizenship"}
+{"token": ["German", "Alexander", "Dimitrenko"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Raimonds", "Laiz\u0101ns", "Latvia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Romania", "Andr\u00e1s", "S\u00fct\u0151"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Norway", "Einar", "Wilhelms"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Australia", "Steve", "Smith"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Colombia", "Giovanny", "B\u00e1ez"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Max", "Nettlau", "Germany"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Grant", "Solomon", "United", "States"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "country of citizenship"}
+{"token": ["Hermann", "Kreuzer", "German"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Ivana", "Spagna", "Italy"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Belgian", "Peyo"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Michelle", "Steele", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Germany", "Hans", "Cloos"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Tessema", "Eshete", "Ethiopia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Thailand", "Prayut", "Chan", "-", "o", "-", "cha"], "h": {"pos": [1, 7]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Australia", "first", "Catholic", "prime", "minister"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["\u00c9douard", "Mwe", "di", "Malila", "Apenela", "Congo"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "country of citizenship"}
+{"token": ["American", "James", "Olson"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Italy", "Giuliano", "Carnimeo"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Pantelis", "Savvidis", "Greece"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Ivory", "Coast", "Emmanuel", "Ebou\u00e9"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "country of citizenship"}
+{"token": ["J\u00f8rgen", "Peder", "Hansen", "Danish"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "country of citizenship"}
+{"token": ["Bulgaria", "Dimitar", "Ivankov"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Emrol", "Phillip", "Grenada"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Greece", "Kostis"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Daniel", "Hayward", "Veatch", "United", "States"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "country of citizenship"}
+{"token": ["Yahya", "Khan", "Pakistan"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Danish", "Lau", "Lauritzen", "Sr", "."], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Glenn", "Wheatley", "Australia"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Marcella", "Detroit", "United", "States"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "country of citizenship"}
+{"token": ["Eirik", "Norway"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "country of citizenship"}
+{"token": ["Harry", "Ernest", "Combs", "New", "Zealand"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "country of citizenship"}
+{"token": ["American", "rifle", "troops"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "country of citizenship"}
+{"token": ["Gurunath", "Vidyanidhi", "Bangladesh"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Mladen", "Bo\u017eovi\u0107", "Montenegrin"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "country of citizenship"}
+{"token": ["Channel", "4", "Loaded"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "original network"}
+{"token": ["The", "Supervet", "Channel", "4"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "original network"}
+{"token": ["Private", "Chefs", "of", "Beverly", "Hills", "Food", "Network"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "original network"}
+{"token": ["Comic", "Relief", "BBC", "One"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "original network"}
+{"token": ["Keiser", "Report", "Russia", "Today"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "original network"}
+{"token": ["Disney", "Channel", "Read", "It", "and", "Weep"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "original network"}
+{"token": ["Rede", "Globo", "Al\u00e9m", "do", "Horizonte"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "original network"}
+{"token": ["SBS", "My", "Love", "from", "the", "Star"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "original network"}
+{"token": ["PBS", "Kids", "Curious", "George"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "original network"}
+{"token": ["TBS", "Count", "Down", "TV"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "original network"}

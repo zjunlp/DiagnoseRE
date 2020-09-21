@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: en-core-web-sm
+Version: 2.3.1
+Summary: English multi-task CNN trained on OntoNotes. Assigns context-specific token vectors, POS tags, dependency parse and named entities.
+Home-page: https://explosion.ai
+Author: Explosion
+Author-email: contact@explosion.ai
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

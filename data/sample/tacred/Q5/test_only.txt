@@ -1,0 +1,500 @@
+{"token": ["Progressive", "Democrats", "of", "America", "international", "policy", "department"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 7]}, "relation": "no_relation"}
+{"token": ["his", "Palermo"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Eugenio", "Vagni", "Switzerland"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["he", "Western"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Pacific", "Asia", "Travel", "Association", "Bangkok-based"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "no_relation"}
+{"token": ["Helen", "Keller", "International", "foundation"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["ADF", "East", "Timor"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["He", "him"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["missionary", "Laura", "Silsby"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["National", "News", "Television", "Richard", "Gage"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Lange", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["journalist", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["Katrina", "Ilan", "Ramon"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ramon", "captain"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:title"}
+{"token": ["her", "Charla", "Nash"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Cain", "NRA"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "org:top_members/employees"}
+{"token": ["Miami", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["http://www.adb.org/media/Articles/2007/12155-asian-poverties-reductions", "ADF"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Herman", "Cain", "National", "Restaurant", "Association"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Jeanne", "Campbell", "Norris", "Church"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Countrywide", "Financial", "US"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "org:country_of_headquarters"}
+{"token": ["his", "seven-year"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Paul", "Hodgson", "Corporate", "Library"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["ALICO", "Fumiyasu", "Sato"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["Heloise", "Heloise"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:parents"}
+{"token": ["Richard", "Marshall", "Anna", "Mae", "Pictou", "Aquash"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["his", "Wen"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["15-6-2007", "Craig", "Ranke"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Hakka", "National", "Taiwan", "Symphony", "Orchestra"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Monday", "New", "Fabris"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Chongqing", "Chen", "Tao"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["PSIA", "1"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Bureau", "of", "Indian", "Affairs", "Graham"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "no_relation"}
+{"token": ["Helen", "Keller", "International", "Friday"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["ShopperTrak", "Black"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Restaurant", "Association", "Americans"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["48-year-old", "George", "Sodini"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:age"}
+{"token": ["him", "Dutch"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["US", "Gross"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "per:countries_of_residence"}
+{"token": ["Almena", "Lomax", "Tuskegee"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["PDA", "Lennox", "Yearwood"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Loose", "Change", "Truth"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["She", "February"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Vernon", "Jordan", "National", "Urban", "League"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["Adela", "Dworin", "president"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:title"}
+{"token": ["Mi", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["now", "American", "Free", "Press"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Vladimir", "Ladyzhenskiy", "Finnish"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Chen", "Tao", "Ma", "Ying-jeou"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["Pacific", "Asia", "Travel", "Association", "Tuesday"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "no_relation"}
+{"token": ["Marc", "Morial", "National", "Urban", "League"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["He", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["his", "Super", "Power"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Raffaele", "Sollecito", "Meredith", "Kercher"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Ruben", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Laura", "Silsby", "earthquake"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Ilan", "Ramon", "Kike", "Lost", "in", "Space"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 6]}, "relation": "no_relation"}
+{"token": ["his", "Jeff"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:children"}
+{"token": ["ALICO", "the", "future"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Alan", "Gross", "he"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["7", "Richard", "Gage"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["she", "Scientology"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Cerniglia", "Manhattan"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["He", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Cynthia", "Bryant", "Countrywide"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Chen", "Tao", "Shen"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Richard", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["early", "Sunday", "he"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["National", "Restaurant", "Association", "GOP"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["Gonzalez", "Chihuahua"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["American", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Sabastawi", "Ilan", "Ramon"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Giago", "Anna", "Mae"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Cerniglia", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Matteo", "Messina", "Denaro", "him"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["Charles", "Ble", "Goude", "his"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["LIHOP", "Apollo", "Hoaxer"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Daniels", "Sunday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Looking", "Cloud", "Jackley"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Antara", "Organization", "of", "Asia", "Pacific", "News", "Agencies"], "h": {"pos": [1, 7]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["communist", "China", "Wen", "Qiang"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Ivory", "Coast", "Youssoufou", "Bamba"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "per:countries_of_residence"}
+{"token": ["Mack", "National", "Urban", "League"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Anna", "Mae", "Pictou", "Aquash", "Canada"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "per:countries_of_residence"}
+{"token": ["American", "Free", "Press", "recently"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["American", "Free", "Press", "October", "1", ",", "2007"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 7]}, "relation": "no_relation"}
+{"token": ["PDA", "Thom", "Hartmann"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["Troof", "LIHOP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Laura", "Silsby", "her"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["She", "61"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:age"}
+{"token": ["she", "police", "officer"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Beginning", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["he", "4-year-old"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Robin", "Barnes", "Professional", "Ski", "Instructors", "of", "America"], "h": {"pos": [2, 7]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["he", "Patrick"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:parents"}
+{"token": ["Alan", "Gross", "December"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Eugenio", "Vagni", "his"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["physicist", "Andrew", "Lange"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["ShopperTrak", "a", "year", "ago"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "no_relation"}
+{"token": ["Mark", "Fisher", "newworldlibrary"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["He", "one"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["ADF", "Vientiane", "Times"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Oracle", "Application", "Developer", "Framework", "ADF"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "org:alternate_names"}
+{"token": ["his", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["he", "one"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Tripoli", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Zhang", "Lu", "Chen", "Tao"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["the", "1970s", "him"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Vagni", "62"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:age"}
+{"token": ["attorney", "Sarah", "Kunstler"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["eight", "Pluribus", "Capital", "Management"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Bruno", "Fernandes", "de", "Sousa", "her"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "no_relation"}
+{"token": ["Nir", "Rosen", "author"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:title"}
+{"token": ["he", "rape"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:charges"}
+{"token": ["she", "Honolulu"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:cities_of_residence"}
+{"token": ["Countrywide", "Angelo", "Mozilo"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["Graham", "Canada"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:origin"}
+{"token": ["Carol", "Daniels", "Sunday"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Cuba", "Adela", "Dworin"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:countries_of_residence"}
+{"token": ["Prachai", "Thai", "Petrochemical", "Industry"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "org:founded_by"}
+{"token": ["he", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["him", "ministry"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Gonzalez", "Chihuahua"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["100", "Bibi"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Pakistani", "lawmaker"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "per:origin"}
+{"token": ["ALICO", "United", "States"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:country_of_headquarters"}
+{"token": ["China", "Charity", "Federation", "Sichuan", "Province"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["Anadarko", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Michael", "Lomax", "United", "Negro", "College", "Fund"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 6]}, "relation": "per:employee_of"}
+{"token": ["Filmmaker", "Sarah", "Kunstler"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["Australian", "Defence", "Force", "Peter", "Gration"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["ambassador", "Youssoufou", "Bamba"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["800", "Dworin"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["ALICO", "60"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["John", "Graham", "assistant", "dean"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["Oct.", "8", "National", "Taiwan", "Symphony", "Orchestra"], "h": {"pos": [2, 6]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["his", "Herold"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["one", "Piedra"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Peter", "Dean", "Terry", "Jupp"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Mexico", "Mario", "Gonzalez"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["he", "Wen"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Sarah", "Kunstler", "war"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["NTSO", "Sun", "Moon", "Lake", "National", "Scenic", "Area", "Administration"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 8]}, "relation": "no_relation"}
+{"token": ["13", "him"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["CEPN", "PDA"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Scrapblog", "England"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:origin"}
+{"token": ["Wen", "Qiang", "rape"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:charges"}
+{"token": ["Xie", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Jackley", "Aquash"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Taiwan", "Symphony", "Orchestra", "Council", "for", "Cultural", "Affairs"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 8]}, "relation": "no_relation"}
+{"token": ["Ruben", "van", "Assouw", "disaster"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["American", "Association", "of", "University", "Women", "Shortchanging", "America"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "no_relation"}
+{"token": ["He", "Adam", "Lange"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "per:siblings"}
+{"token": ["ShopperTrak", "Monday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Now", "Rashid"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Congress", "of", "American", "Indians", "recently"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "no_relation"}
+{"token": ["she", "drugs"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Bibi", "Muslim"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Urban", "League", "Census", "Advisory", "Committee"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "no_relation"}
+{"token": ["his", "CIT"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Cerniglia", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Claudie", "Mamane", "translator"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Bibi", "Thursday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Organisation", "of", "Asia-Pacific", "News", "Agencies", "Antara"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "no_relation"}
+{"token": ["he", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Screen", "Actors", "Guild", "National", "Urban", "League"], "h": {"pos": [3, 6]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Anna", "Mae", "Pictou", "Anna", "Mae"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "per:alternate_names"}
+{"token": ["Youssoufou", "Bamba", "Wednesday"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["she", "Finland"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Sollecito", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["last", "year", "ShopperTrak"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Menil", "Collection", "Paul", "Richard"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["ADF", "Democratic", "Republic", "of", "Congo"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 5]}, "relation": "org:country_of_headquarters"}
+{"token": ["Central", "Asia", "Ahmed", "Rashid"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["High", "Point", "Church", "Kathleen", "Wright"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["GOPAC", "Urban", "League"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Shelby", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["PDA", "Cindy", "Sheehan"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Samudio", "days", "later"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["National", "Congress", "of", "American", "Indians", "Washington", ",", "DC"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 8]}, "relation": "org:country_of_headquarters"}
+{"token": ["Richard", "Gage", "Mathematics"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Hansjorg", "Shellenberger", "NTSO"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["murder", "Annie", "Mae", "Aquash"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["attack", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["She", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["New", "America", "Foundation", "Nir", "Rosen"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["she", "Rio"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:cities_of_residence"}
+{"token": ["UNWTO", "Pacific", "Asia", "Travel", "Association"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "Norris", "Church", "Mailer"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Fort", "Lauderdale", "Piedra"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Knox", "22"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:age"}
+{"token": ["journalist", "Ahmed", "Rashid"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Congress", "of", "American", "Indians", "recently"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "no_relation"}
+{"token": ["Jupp", "U.S.", "Los", "Alamos"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "no_relation"}
+{"token": ["Alessi", "Son", "Citgo"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Heloise", "she"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Countrywide", "Bank", "Countrywide", "Investment", "Services"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "no_relation"}
+{"token": ["Heloise", "she"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Xie", "Caiping", "18", "years"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["U.N.", "Youssoufou", "Bamba"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:employee_of"}
+{"token": ["his", "him"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["co", "Corporate", "Library"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Tracy", "BaArker", "Tracy", "Barker", "her"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "no_relation"}
+{"token": ["governor", "Bibi"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Wen", "Qiang", "5"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Vagni", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["him", "Rashid"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["genocide", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["South", "Korea", "Chen"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Helen", "Keller", "International", "http://wwwhkiorg/"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "org:website"}
+{"token": ["Nir", "Rosen", "Belly", "of", "the", "Green", "Bird"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 7]}, "relation": "no_relation"}
+{"token": ["China", "Charity", "Federation", "400"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["he", "him"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["ShopperTrak", "Sunday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Christopher", "Bollyn", "John", "Galt"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["American", "Free", "Press", "http://www.americanfreepress.net/"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "org:website"}
+{"token": ["sekitar", "Tempat", "Pelelangan", "Ikan"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["he", "Portland", "Maine"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Matteo", "Messina", "Denaro", "his"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Coalition", "Progressive", "Democrats", "of", "America"], "h": {"pos": [1, 5]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Canada", "Arlo", "Looking", "Cloud"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["he", "she"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Her", "last", "Saturday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Vladimir", "Ladyzhenskiy", "wrestler"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:title"}
+{"token": ["7", "Richard", "Gage"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["One", "Countrywide"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["two-hour", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["BestPartyEvercom", "Joshua", "Strebel"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["Laura", "Silsby", "Americans"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:origin"}
+{"token": ["Eliza", "Samudio", "her"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Sea", "Org", "she"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Mozilo", "Countrywide"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "org:top_members/employees"}
+{"token": ["Piedra", "Scientologists"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:alternate_names"}
+{"token": ["doctor", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "Alessi"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Alessi", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["William", "Kunstler", "her"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:children"}
+{"token": ["Vladimir", "Ladyzhenskiy", "Timo", "Kaukonen"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["three", "Dworin"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["attorney", "Mario", "Gonzalez"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["Eugenio", "Vagni", "Filipina"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["National", "Development", "and", "Reform", "Commission", "Xinhua"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "no_relation"}
+{"token": ["National", "Congress", "of", "American", "Indians", "David", "Cameron"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "org:top_members/employees"}
+{"token": ["Black", "Panthers", "Urban", "League"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Australian", "Defence", "Force", "Civil", "Aviation", "Safety", "Authority"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 7]}, "relation": "no_relation"}
+{"token": ["Jennifer", "Ly", "Scrapblog"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Daniels", "Sunday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Urban", "League", "International", "Planned", "Parenthood", "Federation/Western", "Hemisphere", "Region"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 9]}, "relation": "no_relation"}
+{"token": ["Matteo", "Messina", "Denaro", "Sicily"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "per:cities_of_residence"}
+{"token": ["Rios", "Aquash"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["August", "Xie", "Caiping"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Chiafari", "10-year-old"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Tuesday", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Leader", "Michael", "Lomax"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Development", "and", "Reform", "Commission", "NDRC"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "org:alternate_names"}
+{"token": ["Herold", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "Superintendent"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["footballer", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ble", "Goude", "Yopougon"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Looking", "Cloud", "Looking", "Cloud"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["One", "Bibi"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "Abidjan"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["He", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["John", "Dossett", "National", "Congress", "of", "American", "Indians"], "h": {"pos": [2, 7]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["10", "PATA"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["TPI", "pihaknya", "selaku", "penyelenggara", "mengaku", "bangga", "bisa", "melahirkan", "bintang-bintang", "masa", "depan", "dari", "kalangan", "masyarakat"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 14]}, "relation": "no_relation"}
+{"token": ["Pacific", "Asia", "Travel", "Association", "PATA"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "org:alternate_names"}
+{"token": ["NDRC", "2010"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Pravda", "AFP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["he", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["ERP", "SAP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ahmed", "Rashid", "author"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["he", "Jewish"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:religion"}
+{"token": ["his", "Alessi"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["LIHOP", "5.7"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["She", "Atlanta-based"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["MGE", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Alan", "Gross", "Alarcon"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Semen", "Gresik", "five"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Countrywide", "Stanford", "Kurland"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["Rashid", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["MCA", "China", "Charity", "Federation"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["2010", "NTSO"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["CAEFI", "China", "Charity", "Federation"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["PATA", "Zhejiang", "Province"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["Hagemo", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "per:parents"}
+{"token": ["Currently", "Menil", "Collection"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["25-year-old", "Eliza", "Samudio"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:age"}
+{"token": ["Jupp", "previously"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Urban", "League", "PBS"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["Tamaihia", "Walker"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Attorney", "General", "Annie", "Mae", "Aquash"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Bill", "Martin", "ShopperTrak"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "org:founded_by"}
+{"token": ["Frank", "Chiafari", "911"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["his", "Taliban"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Dylan", "Avery", "he"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Benjamin", "Chertoff", "Popular", "Mechanics"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "per:employee_of"}
+{"token": ["Bamba", "60-year-old"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:age"}
+{"token": ["He", "Motorola"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:employee_of"}
+{"token": ["National", "Congress", "of", "American", "Indians", "David", "Cameron"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "no_relation"}
+{"token": ["John", "Graham", "she"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Kercher", "Amanda", "Knox"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Eliza", "Samudio", "25"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:age"}
+{"token": ["Chiafari", "about", "two", "months"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "no_relation"}
+{"token": ["2008", "Ble", "Goude"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Aquash", "South", "Dakota"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "per:stateorprovince_of_death"}
+{"token": ["John", "Koldowski", "PATA"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Corporate", "Library", "independent"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["ALICO", "MetLife", "Inc"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:parents"}
+{"token": ["CEO", "Helen", "Keller", "International"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Bibi", "President"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Norris", "Church", "Mailer"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["lieutenant", "Charles", "Ble", "Goude"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["he", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Semen", "Gresik", "2001"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Pinellas", "County", "he"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Peugeot", "New", "Fabris"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["she", "she"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Sycamore", "Java"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Malvern", "College", "Rashid"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["David", "Letterman", "National", "Restaurant", "Association"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["one", "Lomax"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ahmed", "Rashid", "his"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Ahmed", "Rashid", "author"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:title"}
+{"token": ["Craig", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Sacramento", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["She", "FBI"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:employee_of"}
+{"token": ["Messina", "Denaro", "Sicilian"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["one", "Urban", "League"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Energy", "Administration", "New", "Energy", "Department"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 6]}, "relation": "org:subsidiaries"}
+{"token": ["Alan", "Gross", "espionage"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:charges"}
+{"token": ["Semen", "Gresik", "150"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Keith", "Donald", "Mark", "Fisher"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["http://www.investigativeproject.org/docs/misc/25.pdf", "United", "Association", "for", "Studies", "and", "Research"], "h": {"pos": [1, 7]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["attack", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "Ted", "Poe"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["ADF", "RSL"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Ouloto", "Ble", "Goude"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Saturday", "ShopperTrak"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Heloise", "recently"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Paul", "Hodgson", "Corporate", "Library"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["2007", "Countrywide"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Countrywide", "Financial", "Corp.", "Citigroup", "Inc."], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["Tribeca", "Enterprises", "Sundance", "Film", "Festival"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "org:subsidiaries"}
+{"token": ["Bibi", "her"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["10-minute", "Gonzalez"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Urban", "League", "Americans"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["Nuclear", "Management", "Partners", "Ltd.", "Nuclear", "Decommissioning", "Authority"], "h": {"pos": [4, 7]}, "t": {"pos": [0, 4]}, "relation": "no_relation"}
+{"token": ["Sycamore", "Season"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["two", "Vagni"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["He", "Wednesday"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Heloise", "her"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Hagemo", "her"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Restaurant", "Association", "The", "New", "York", "Times"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 7]}, "relation": "no_relation"}
+{"token": ["Lange", "chairman"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:title"}
+{"token": ["Countrywide", "Kenneth", "Lewis"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["26", "years", "Meredith", "Kercher"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Peltier", "Aquash"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["two", "him"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Her", "Wen"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:other_family"}
+{"token": ["Gonzalez", "attorney", "general"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "no_relation"}
+{"token": ["the", "future", "Norris", "Church", "Mailer"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Illinois", "Restaurant", "Association", "NRA"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Bibi", "Islam"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Liu", "Qi", "National", "Energy", "Administration"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["The", "National", "Restaurant", "Association", "Tuesday"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 5]}, "relation": "no_relation"}
+{"token": ["she", "June", "26", ",", "1975"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 5]}, "relation": "no_relation"}
+{"token": ["Pauliina", "Miettinen", "Sky", "Blue"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "per:employee_of"}
+{"token": ["genocide", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Graham", "Looking", "Cloud"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Bersama", "Shield", "ADF"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Loose", "Change", "Zeitgeist"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Michael", "Lomax", "United", "Negro", "College", "Fund"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 6]}, "relation": "per:employee_of"}
+{"token": ["Gonzalez", "the", "past", "four", "years"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 5]}, "relation": "no_relation"}
+{"token": ["Arlo", "Looking", "Cloud", "Aquash"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["Chiafari", "53"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "per:age"}
+{"token": ["ERP", "SAP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["He", "Looking", "Cloud"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Wen", "Qiang", "Chongqing"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["National", "Energy", "Administration", "China"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "org:country_of_headquarters"}
+{"token": ["Vagni", "International", "Committee"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "per:employee_of"}
+{"token": ["Sycamore", "5/3"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Restaurant", "Association", "Monday"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["6,550", "Semen", "Gresik"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ismael", "Rukwago", "ADF"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["Manila", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "per:cities_of_residence"}
+{"token": ["Israel", "Ilan", "Ramon"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Kunstler", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Countrywide", "five"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Gonzalez", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["His", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["chief", "of", "police", "Christopher", "Bollyn"], "h": {"pos": [3, 5]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Bank", "of", "America", "Corp.", "Countrywide", "Financial", "Corp."], "h": {"pos": [4, 7]}, "t": {"pos": [0, 4]}, "relation": "org:parents"}
+{"token": ["Norris", "Church", "Mailer", "NY"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "per:stateorprovince_of_death"}
+{"token": ["Messina", "Denaro", "Bernardo", "Provenzano"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["Alessi", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Joseph", "Cerniglia", "39-year-old"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:age"}
+{"token": ["Ivory", "Coast", "Charles", "Ble", "Goude"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "per:countries_of_residence"}
+{"token": ["900", "Michael", "Lomax"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Nell", "Minow", "Corporate", "Library"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "org:top_members/employees"}
+{"token": ["her", "reader"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["National", "Development", "and", "Reform", "Commission", "Xie", "Xuren"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "no_relation"}
+{"token": ["he", "1991"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["rick", "murphy", "Ilan", "Ramon"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["40", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Dworin", "Jews"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["ADF", "POS"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Wen", "Qiang", "Chongqing"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:cities_of_residence"}
+{"token": ["Semen", "Gresik", "5,900"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["recently", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ble", "Goude", "his"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Semen", "Gresik", "5,900"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["previous", "summers", "National", "Restaurant", "Association"], "h": {"pos": [2, 5]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["She", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["ton-based", "AFP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Xie", "Caiping", "last", "week"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["Gonzalez", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["China", "OANA"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["ALICO", "MetLife", "Inc"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:parents"}
+{"token": ["Matteo", "Messina", "Denaro", "Cosa", "Nostra"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["him", "day"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Mark", "Fisher", "Dayton", "Daily", "News"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 5]}, "relation": "per:employee_of"}
+{"token": ["Countrywide", "Rick", "Simon"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 3]}, "relation": "org:top_members/employees"}
+{"token": ["one", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["She", "her"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Customs", "Enforcement", "Koch", "Foods"], "h": {"pos": [2, 4]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["College", "Inn", "Heloise"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Sycamore", "she"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Wen", "Qiang", "Chongqing"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Chongqing", "Chen", "Tao"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:cities_of_residence"}
+{"token": ["Asia", "Bibi", "Punjab"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:stateorprovinces_of_residence"}
+{"token": ["Spooner", "American"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Laura", "Silsby", "40"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:age"}
+{"token": ["her", "SOS", "Children", "'s", "Villages"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 5]}, "relation": "no_relation"}
+{"token": ["Vladimir", "Ladyzhenskiy", "he"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["du", "Pont", "de", "Nemours", "biologist"], "h": {"pos": [4, 5]}, "t": {"pos": [0, 4]}, "relation": "per:employee_of"}
+{"token": ["the", "states", "him"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Pacific", "Asia", "Travel", "Association", "PATA", "-RRB-", "Travel", "Mart"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 8]}, "relation": "no_relation"}
+{"token": ["Corporate", "Library", "independent"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["him", "Dworin"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Progressive", "Democrats", "of", "America", "RAND", "Corporation"], "h": {"pos": [0, 4]}, "t": {"pos": [4, 6]}, "relation": "no_relation"}
+{"token": ["United", "Nations", "he"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["Benjamin", "Chertoff", "25-year-old"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "per:age"}
+{"token": ["caller", "him"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Alan", "P.", "Gross", "Potomac"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "per:cities_of_residence"}
+{"token": ["Baldino", "2002"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["NYU", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Andreas", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Israel", "Christopher", "Bollyn"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["her", "her"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["He", "President"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Department", "of", "Interior", "NCAI"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["Charles", "Ble", "Goude", "AFP"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["9-11", "Loose", "Change"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["internet", "LIHOP"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Dylan", "he"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["ShopperTrak", "days", "of", "the", "year"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 5]}, "relation": "no_relation"}
+{"token": ["Adela", "Dworin", "Havana"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Pakistani", "Ahmed", "Rashid"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:origin"}
+{"token": ["Arlo", "Looking", "Cloud", "late", "1975"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "no_relation"}
+{"token": ["Countrywide", "the", "third", "quarter"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 4]}, "relation": "no_relation"}
+{"token": ["he", "him"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Russia", "Organization", "of", "Asia-Pacific", "News", "Agencies"], "h": {"pos": [1, 6]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Ruben", "van", "Assouw", "Enzo"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "per:siblings"}
+{"token": ["Alessi", "her"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Norris", "Church", "Mailer", "painter"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 4]}, "relation": "per:title"}
+{"token": ["Koch", "Foods", "Ohio"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Charlesetta", "Dunlap", "Daniels"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "per:parents"}
+{"token": ["Tim", "Mark", "Fisher"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Romney", "National", "Restaurant", "Association"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["his", "his"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["LC", "Hollywood"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["Xie", "Caiping", "18", "years"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 4]}, "relation": "no_relation"}
+{"token": ["Dream", "National", "Urban", "League"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["lawmaker", "Mark", "Fisher"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "per:title"}
+{"token": ["Her", "she"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Development", "and", "Reform", "Commission", "Ma", "Biao"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 7]}, "relation": "no_relation"}
+{"token": ["Wednesday", "Youssoufou", "Bamba"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["China", "TPI"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "org:members"}
+{"token": ["Alan", "Gross", "his"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["National", "Development", "and", "Reform", "Commission", "three"], "h": {"pos": [0, 5]}, "t": {"pos": [5, 6]}, "relation": "no_relation"}
+{"token": ["Frank", "Chiafari", "him"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["His", "he"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["ALICO", "London"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
+{"token": ["he", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["National", "Urban", "League", "Marc", "Morial"], "h": {"pos": [0, 3]}, "t": {"pos": [3, 5]}, "relation": "org:top_members/employees"}
+{"token": ["Mujahid", "Ilan", "Ramon"], "h": {"pos": [1, 3]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["USAID", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Mark", "Fisher", "2006"], "h": {"pos": [0, 2]}, "t": {"pos": [2, 3]}, "relation": "no_relation"}
+{"token": ["Sizewell", "A", "NDA"], "h": {"pos": [2, 3]}, "t": {"pos": [0, 2]}, "relation": "no_relation"}
+{"token": ["UK", "Nuclear", "Decommissioning", "Authority"], "h": {"pos": [1, 4]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Lara", "Logan", "Rosen", "he"], "h": {"pos": [3, 4]}, "t": {"pos": [0, 3]}, "relation": "no_relation"}
+{"token": ["brown", "his"], "h": {"pos": [1, 2]}, "t": {"pos": [0, 1]}, "relation": "no_relation"}
+{"token": ["Alessi", "Rome"], "h": {"pos": [0, 1]}, "t": {"pos": [1, 2]}, "relation": "no_relation"}
