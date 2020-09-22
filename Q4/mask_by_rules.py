@@ -46,4 +46,4 @@ with open(args.input_file, 'r') as f:
 with open(args.output_file, 'w') as f:
     for sample in samples:
         f.write(json.dumps(sample) + '\n')
-logging.info('Substituted {}/{} samples'.format(sub_count, len(samples)))
+logging.info('Masked {}/{} samples'.format(sub_count, len(samples)))

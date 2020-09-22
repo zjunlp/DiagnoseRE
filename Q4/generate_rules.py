@@ -65,4 +65,12 @@ with open(args.output_file, 'w') as f:
             'sentences': sentence_count[rel],
             'rules': [token for token, score in token_pairs[:args.num_rules]]
         }
-    json.dump(rules, f)
+    f.write('{')
+    rel_count = 0
+    for rel in sorted(rules.keys(), key=lambda rel: -rules[rel]['sentences']):
+        f.write('"{}":{}'.format(rel, json.dumps(rules[rel])))
+        rel_count += 1
+        if rel_count < len(rules):
+            f.write(',')
+        f.write('\n')
+    f.write('}')
