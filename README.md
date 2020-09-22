@@ -5,12 +5,11 @@ This repository is the official implementation of [Can Fine-tuning Pre-trained M
 If you use or extend our work, please cite the following paper:
 
 ```
-@article{2009.06206,
+@article{zhang2021,
 	title = {Can Fine-tuning Pre-trained Models Lead to Perfect NLP? A Study of the Generalizability of Relation Extraction},
 	author = {Ningyu Zhang and Luoqiu Li and Shumin Deng and Haiyang Yu and Xu Cheng and Wei Zhang and Huajun Chen},
-	journal = {arXiv},
-	year = {2020},
-	volume={abs/2009.06206}
+	journal = {arXiv preprint arXiv:2009.06206},
+	year = {2020}
 }
 ```
 
