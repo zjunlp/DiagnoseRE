@@ -115,9 +115,10 @@ for sample in tqdm(samples, desc='Processing test sentences...'):
 
     grad_mean = torch.mean(torch.cat(all_grad, dim=0),
                            dim=0).squeeze(0).cpu().numpy()
+    integral = grad_mean * token_embed
 
     # Calculate norm of hidden dims
-    grad = np.sqrt(grad_mean ** 2).sum(axis=1)
+    grad = np.sqrt(integral ** 2).sum(axis=1)
     grad = (grad - grad.min()) / (grad.max() - grad.min())
 
     # Merge tokens with gradients (aligned to tokens' length)
