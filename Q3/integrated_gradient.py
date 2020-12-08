@@ -113,9 +113,8 @@ for sample in tqdm(samples, desc='Processing test sentences...'):
         loss.backward()
         all_grad.append(token_embed.grad)
 
-    grad_mean = torch.mean(torch.cat(all_grad, dim=0),
-                           dim=0).squeeze(0).cpu().numpy()
-    integral = grad_mean * token_embed
+    integral = (torch.mean(torch.cat(all_grad, dim=0),
+                           dim=0) * token_embed).detach().squeeze(0).cpu().numpy()
 
     # Calculate norm of hidden dims
     grad = np.sqrt(integral ** 2).sum(axis=1)
