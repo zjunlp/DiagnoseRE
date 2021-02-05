@@ -1,17 +1,7 @@
 # DiagnoseRE
 
-This repository is the official implementation of [Can Fine-tuning Pre-trained Models Lead to Perfect NLP?A Study of the Generalizability of Relation Extraction](https://arxiv.org/abs/2009.06206).
+This repository is the official implementation of [On Robustness and Bias Analysis of Neural Relation Extraction]().
 
-If you use or extend our work, please cite the following paper:
-
-```
-@article{zhang2021,
-	title = {Can Fine-tuning Pre-trained Models Lead to Perfect NLP? A Study of the Generalizability of Relation Extraction},
-	author = {Ningyu Zhang and Luoqiu Li and Shumin Deng and Haiyang Yu and Xu Cheng and Wei Zhang and Huajun Chen},
-	journal = {arXiv preprint arXiv:2009.06206},
-	year = {2020}
-}
-```
 
 ## Requirements
 
