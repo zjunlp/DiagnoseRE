@@ -1,6 +1,6 @@
 # DiagnoseRE
 
-This repository is the official implementation of [On Robustness and Bias Analysis of Neural Relation Extraction]().
+This repository is the official implementation of [On Robustness and Bias Analysis of BERT-based Relation Extraction]().
 
 
 ## Requirements
