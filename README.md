@@ -1,6 +1,6 @@
 # DiagnoseRE
 
-This repository is the official implementation of [On Robustness and Bias Analysis of BERT-based Relation Extraction]().
+This repository is the official implementation of the CCKS2021 paper [On Robustness and Bias Analysis of BERT-based Relation Extraction](https://arxiv.org/pdf/2009.06206.pdf).
 
 
 ## Requirements
@@ -440,3 +440,15 @@ optional arguments:
 
 - After data generation, you can run `train.py` or `test.py` to perform training / testing.
 
+## How to Cite
+
+```bibtex
+@inproceedings{li2021robustness,
+  title={On Robustness and Bias Analysis of BERT-Based Relation Extraction},
+  author={Li, Luoqiu and Chen, Xiang and Ye, Hongbin and Bi, Zhen and Deng, Shumin and Zhang, Ningyu and Chen, Huajun},
+  booktitle={China Conference on Knowledge Graph and Semantic Computing},
+  pages={43--59},
+  year={2021},
+  organization={Springer}
+}
+```
